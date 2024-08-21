@@ -2,4 +2,16 @@
    background-color: black; 
    color: white;
    padding: 10px;
+   display: flex;
+   align-items: center;
+}
+.brand-name{
+ font-size:20px ;
+ font-weight: bold;  
+ font-style: italic;
+}
+.navbar-link{
+   color: white;
+  
+   margin :0 20px;
 }
