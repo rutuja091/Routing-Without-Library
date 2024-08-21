@@ -5,4 +5,13 @@ padding:0px;
 
 .header-img{
 height: 200px;
+
+}
+.page-title
+{
+    background-color: rgb(102, 102, 245);
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 30px;
 }

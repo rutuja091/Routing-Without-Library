@@ -2,9 +2,9 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import "./index.css"
 
-import Home from "./Home"
-import About from "./About"
-import Contact from "./Contact"
+import Home from "./views/Home/Home"
+import About from "./views/About/About"
+import Contact from "./views/Contact/Contact"
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
